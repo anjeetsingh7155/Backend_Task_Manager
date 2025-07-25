@@ -20,4 +20,4 @@ This project is a basic fullstack Todo application built using **Node.js**, **Ex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anjeetsingh7155/myfirstnextapp.git
+   git clone https://github.com/anjeetsingh7155/Backend_Task_Manager.git
